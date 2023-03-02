@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Lab_1</title>
+    <style type='text/css'>
+    p {
+        font-family: 'Times New Roman', Times, serif; 
+        font-style: italic; 
+        padding-left: 100px;
+        margin-top: 0em; 
+        margin-bottom: 0em;
+        font-weight: normal;
+        word-spacing: 6px;
+        line-height: 1.3em;
+       }
+    </style>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h1>
+        <p><img src="poni.jpg" alt=""></p>
+        <a href="https://www.youtube.com">YouTube</a>
+        <div>
+            <b>Fairy</b>
+            <p>
+                Over hill, over dale,<br>
+                Thorough bush, thorough brier,<br>
+                Over park, over pale,<br>
+                Thorough flood, thorough fire,<br>
+                I do wander everywhere,<br>
+                Swifter than the moon's sphere;<br>
+                And I serve the fairy queen,<br>
+                To dew her orbs upon the green.<br>
+                The cowslips tall her pensioners be:<br>
+                In their gold coats spots you see;<br>
+                Those be rubies, fairy favours,<br>
+                In those freckles live their savours:<br>
+                I must go seek some dewdrops here<br>
+                And hang a pearl in every cowslip's ear.<br>
+                Farewell, thou lob of spirits; I'll be gone:<br>
+                Our queen and all our elves come here anon.<br>
+            </p>
+            <b>PUCK</b>
+            <p>
+                The king doth keep his revels here to-night:<br>
+                Take heed the queen come not within his sight;<br>
+                For Oberon is passing fell and wrath,<br>
+                Because that she as her attendant hath<br>
+                A lovely boy, stolen from an Indian king;<br>
+                She never had so sweet a changeling;<br>
+                And jealous Oberon would have the child<br>
+                Knight of his train, to trace the forests wild;<br>
+                But she perforce withholds the loved boy,<br>
+                Crowns him with flowers and makes him all her joy:<br>
+                And now they never meet in grove or green,<br>
+                By fountain clear, or spangled starlight sheen,<br>
+                But, they do square, that all their elves for fear<br>
+                Creep into acorn-cups and hide them there.<br>
+            </p>
+        </div>
+        
+
+    </h1>
+
+    
+</body>
+</html>
