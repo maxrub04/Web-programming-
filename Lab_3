@@ -1,0 +1,31 @@
+//Create 10 variables with different data types
+let n = 123;
+let bigInt = 1234567890123456789012345678901234567890n;
+let str = "Hello";
+let max = true;
+let age = null;
+let alex = undefined;
+let n1 = 1234;
+let bigInt1 = 1234567890123456789012345678901234567899n;
+let str1 = "Bye";
+let max1 = false;
+
+//type checking
+console.log(typeof(n), typeof(bigInt) ,typeof(str) ,typeof(max) ,typeof(age) ,typeof(alex), typeof(n1) ,typeof(bigInt1) ,typeof(str1) ,typeof(max1));
+
+/* Use assignment operators for simple mathematical operations, and print the result from
+using the console */
+let a = 1 , b = 2;
+console.log(a + b);
+
+/* Use logical and bitwise operators */
+let a1 = 1 , b1 = 2, c = 5 & 6;
+if(a1 > 0 && b1 > 0)
+{
+	console.log("Numbers are more then 0")
+} 
+else
+{
+	console.log("Numbers are not more then 0")
+}
+console.log(c)
